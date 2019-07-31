@@ -1,0 +1,19 @@
+point
+line
+direction
+surface
+plane
+angle
+right angle
+area
+circle
+arc
+polygon
+equilateral triangle
+isosceles triangle
+right-angled triangle
+square
+rectangle
+rhombus
+trapezium
+parallelogram
