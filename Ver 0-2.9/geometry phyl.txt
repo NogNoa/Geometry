@@ -1,0 +1,3 @@
+geomery can be simulated positoionaly or nonpositionaly
+object in nonpositional simulation can be moved and turn with no change to their identity and properties, as long as all the object in the simulation are turned and moved in unison
+nonpositional points are not an indipendent object, as points denote merely position, instead they are defined as positions on other objects themselves. 
